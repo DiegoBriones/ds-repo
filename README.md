@@ -1,2 +1,2 @@
 # ds-repo
-Test Data Science Repo
+Data Science Test Repo
